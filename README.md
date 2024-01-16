@@ -1,5 +1,5 @@
 # Human Movement Datasets: An Interdisciplinary Scoping Review
-This is the repository for the **Human Movement Datasets: An Interdisciplinary Scoping Review** paper, which is a comprehensive review of over 1,500 human movement datasets relevant across disciplines (including computer science and medical sciences). We make our catalogue of 710 of these datasets that are open for reuse available to you, and hope that it is valuable to the research community.
+This is the repository for the **Human Movement Datasets: An Interdisciplinary Scoping Review** paper, which is a comprehensive review of over 700 human movement datasets relevant across disciplines (including computer science and medical sciences). We make our catalogue of the 710 datasets that we found to be open for reuse available to you, and hope that it is valuable to the research community.
 
 ## Cite as
 Olugbade, Bieńkiewicz, Barbareschi et al. 2022. Human Movement Datasets: An Interdisciplinary Scoping Review. ACM Computing Surveys
