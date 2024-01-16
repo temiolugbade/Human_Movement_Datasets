@@ -1,4 +1,5 @@
 # Human Movement Datasets: An Interdisciplinary Scoping Review
+This is the repository for the **Human Movement Datasets: An Interdisciplinary Scoping Review** paper, which is a comprehensive review of over 1,500 human movement datasets relevant across disciplines (including computer science and medical sciences). We make our catalogue of 710 of these datasets that are open for reuse available to you, and hope that it is valuable to the research community.
 
 ## Cite as
 Olugbade, Bieńkiewicz, Barbareschi et al. 2022. Human Movement Datasets: An Interdisciplinary Scoping Review. ACM Computing Surveys
@@ -15,13 +16,30 @@ Olugbade, Bieńkiewicz, Barbareschi et al. 2022. Human Movement Datasets: An Int
 }
 ```
 
-## Paper
+## Survey paper
 1. Main article - [link](https://discovery.ucl.ac.uk/id/eprint/10147799/1/Human_Movement_Datasets__An_Interdisciplinary_Scoping_Review%20-%20authorversion.pdf)
 2. Supplementary table - [link](https://discovery.ucl.ac.uk/id/eprint/10147799/5/Human_Movement_Datasets__An_Interdisciplinary_Scoping_Review%20-%20Supplementary%202.pdf)
 
-## Datasets catalogue (704 open datasets) 
+## Datasets catalogue (710 open datasets) 
 [Download catalogue](https://discovery.ucl.ac.uk/id/eprint/10147799/4/Human_Movement_Datasets__An_Interdisciplinary_Scoping_Review%20-%20Supplementary%201.xlsx)
+
+## Catalogue fields
+* Year	
+* Purpose of Creation
+* Captured Data Type & Size
+* Label Type - Unique amount
+* Source
+* Population Type
+* Context
+* Data Access	(URL)
+* Kinematic Data Sensor	(if applicable)
+* Funding
+* Reference title	
+
 
 ## Full author list
 Temitayo Olugbade, Marta Bieńkiewicz, Giulia Barbareschi, Vincenzo D’amato, Luca Oneto, Antonio Camurri, Catherine Holloway, Mårten Björkman, Peter Keller, Martin Clayton, 
 Amanda C De C Williams, Nicolas Gold, Cristina Becchio, Benoît Bardy, Nadia Bianchi-Berthouze.
+
+## Contact
+[Corresponding author - Temitayo Olugbade](t.olugbade@sussex.ac.uk)
